@@ -12,10 +12,10 @@
   max-width: 420px;
   padding: 2.5rem;
   border-radius: 12px;
-  background: rgba(203, 175, 196, 0.45);
+  background: rgba(88, 54, 79, 0.2);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 20px 40px rgba(29, 159, 131, 0.4);
 }
 
 /* Inputs */
